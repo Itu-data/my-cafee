@@ -1,9 +1,9 @@
 {
   "name": "react-app",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "mohapi/backend/server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node mohapi/backend/server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
